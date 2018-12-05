@@ -4,6 +4,7 @@ Day 1: Chronal Calibration
 
 """
 
+
 # PART 1
 
 def part1():
@@ -15,6 +16,7 @@ def get_input():
     with open('input.txt') as f:
         for line in f:
             yield int(line)
+
 
 
 # PART 1
@@ -49,6 +51,3 @@ if __name__ == '__main__':
 
     solution_part2 = part2()
     print(solution_part2)
-
-
-
