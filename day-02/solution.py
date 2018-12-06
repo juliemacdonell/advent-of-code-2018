@@ -1,6 +1,6 @@
 """
-Day 1: Day 2: Inventory Management System
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Day 2: Inventory Management System
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 """
 import collections as _collections
